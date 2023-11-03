@@ -7,4 +7,3 @@
 ## Ton équipe
 
 > Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
-

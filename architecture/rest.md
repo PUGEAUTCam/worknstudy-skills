@@ -56,7 +56,7 @@ Front-end : React, axios, redux toolkit, dayjs, infiniteScrool and styled compon
 Back-end : NodeJS, Express and for the database MongoDB with this framework Mongoose.
 Mon gros projet de fin de formation chew Open CLassroom, creation d'un reseau social avec diverses fonctionnalites. Realisation du front et du back. Projet de 4 mois.
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable/ ✔️
 
 https://github.com/PUGEAUTCam/DW_P7_V2_PUGEAUT_Camille/tree/main
 
@@ -83,9 +83,9 @@ Pour definir
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage / ✔️
 
-Description:
+Description: Parfois du mal a manipuler les token, autorisations
 
 Plan d'action : (à valider par le formateur)
 

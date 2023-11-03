@@ -6,10 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
-- l'orchestration de containers avec docker-compose ❌ / ✔️
-
+-  la création d'une image docker ❌ / ✔️
+-  l'éxécution d'un container ❌ / ✔️
+-  l'orchestration de containers avec docker-compose ❌ / ✔️
 
 ## 💻 J'utilise
 
@@ -35,8 +34,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+-  lien
+-  description
 
 ## 🚧 Je franchis les obstacles
 
@@ -46,13 +45,13 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+-  action 1 ❌ / ✔️
+-  action 2 ❌ / ✔️
+-  ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+-  J'ai ecrit un [tutoriel](...) ❌ / ✔️
+-  J'ai fait une [présentation](...) ❌ / ✔️

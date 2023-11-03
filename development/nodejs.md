@@ -77,7 +77,7 @@ Description: Je pratique peu le NodeJs depuis la fin de ma formation de 6 mois.
 
 Plan d'action : (à valider par le formateur)
 
--  action 1 ❌ / ✔️ Realiser des cours ou petits projets
+-  action 1 / ✔️ Realiser des cours ou petits projets
 
 Résolution :
 
