@@ -1,9 +1,5 @@
 # Titre de la compétence
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
-
 ## 🎓 J'ai compris et je peux expliquer
 
 -  l'état (_state_) pour contrôler l'affichage d'un composant / ✔️
@@ -86,14 +82,14 @@ Communaute entraide
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage / ✔️
 
 Description: Je pratique peu react car je suis en Vue JS dans mon entrerpise
 
 Plan d'action : (à valider par le formateur)
 
--  action 1 ❌ / ✔️ Bien travailler sur le projet de la WCS pour garder un niveau en react
--  action 2 ❌ / ✔️Creer des petits projets perso a cote pour ne pas perdre de niveau ni les avancees.
+-  action 1 / ✔️ Bien travailler sur le projet de la WCS pour garder un niveau en react
+-  action 2 / ✔️Creer des petits projets perso a cote pour ne pas perdre de niveau ni les avancees.
 -  ...
 
 Résolution :

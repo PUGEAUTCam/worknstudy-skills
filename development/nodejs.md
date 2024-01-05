@@ -1,9 +1,5 @@
 # Titre de la compétence
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
-
 ## 🎓 J'ai compris et je peux expliquer
 
 -  Comment développer en utilisant un système de _livereloading_ (`nodemon` par exemple) / ✔️
@@ -71,7 +67,7 @@ Communaute entraide
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage / ✔️
 
 Description: Je pratique peu le NodeJs depuis la fin de ma formation de 6 mois.
 
@@ -83,5 +79,6 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
--  J'ai ecrit un [tutoriel](...) ❌ / ✔️
--  J'ai fait une [présentation](...) ❌ / ✔️
+J'ai realise un projet en entreprise en nodeJs pour m'entrainer davantage
+
+https://github.com/Interencheres/cpm-padawan-fullstack2/tree/main

@@ -1,9 +1,5 @@
 # GraphQL
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
-
 ## 🎓 J'ai compris et je peux expliquer
 
 -  la différence entre REST et GraphQL / ✔️
@@ -102,12 +98,12 @@ Description : NOn je ne fais pas de back
 
 ### Point de blocage / ✔️
 
-Description:
+Description: Pas acces pratique comme tout le reste dans cette formation et je suis front en alternance
 
 Plan d'action : (à valider par le formateur)
 
--  action 1 / ✔️
--  action 2 / ✔️
+-  action 1 / Realiser un second projet perso avec GraphQL
+-  action 2 / Regarder un cours
 -  ...
 
 Résolution :

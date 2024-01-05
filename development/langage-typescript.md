@@ -1,9 +1,5 @@
 # TypeScript
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
-
 ## 🎓 J'ai compris et je peux expliquer
 
 -  l'intéret de TypeScript dans l'IDE / ✔️
@@ -93,14 +89,14 @@ Video courte mais tres bien resume sur le sperincipes de base de Typescript
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage / ✔️
 
 Description: Typescript est trop restrictif et cela fait perdre parfois un temps considerable pour peu de choses
 
 Plan d'action : (à valider par le formateur)
 
--  action 1 ❌ / ✔️ Apprendre a apprecier Typescript
--  action 2 ❌ / ✔️ Se forcer a utilisre typescript
+-  action 1 / ✔️ Apprendre a apprecier Typescript
+-  action 2 / ✔️ Se forcer a utilisre typescript
 -  ...
 
 Résolution :

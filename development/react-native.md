@@ -222,13 +222,13 @@ justifyContent: 'space-between',
 
 [https://github.com/Snoupix/UpOrDawn](projet de WCS)
 
-Description :
+Description : Projet WCS
 
 ### Utilisation en production si applicable / ✔️
 
 [https://github.com/Snoupix/UpOrDawn](projet de WCS)
 
-Description :
+Description : Projet WCS
 
 ### Utilisation en environement professionnel / ✔️
 
@@ -245,11 +245,11 @@ Description : NON je n'utilise pas react native dans mon entreprise
 
 ### Point de blocage / ✔️
 
-Description:
+Description: Pas assez pratique
 
 Plan d'action : (à valider par le formateur)
 
--  action 1 / ✔️
+-  action 1 / ✔️ Faire un autre projet sur mobile
 -  action 2 / ✔️
 -  ...
 

@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- ce que c'est ❌ / ✔️
-- comment deployer une application sur une PaaS ❌ / ✔️
+-  ce que c'est ❌ / ✔️
+-  comment deployer une application sur une PaaS ❌ / ✔️
 
 ## 💻 J'utilise
 
@@ -33,8 +33,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+-  lien
+-  description
 
 ## 🚧 Je franchis les obstacles
 
@@ -44,13 +44,13 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+-  action 1 ❌ / ✔️
+-  action 2 ❌ / ✔️
+-  ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+-  J'ai ecrit un [tutoriel](...) ❌ / ✔️
+-  J'ai fait une [présentation](...) ❌ / ✔️

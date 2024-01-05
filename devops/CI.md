@@ -119,12 +119,12 @@ Description : NON je ne fais pas de CI dans mon entreprise
 
 ### Point de blocage / ✔️
 
-Description:
+Description: Pas assez travaille comem tout le reste dans cette alternance, survole
 
 Plan d'action : (à valider par le formateur)
 
--  action 1 / ✔️ s'entrainer
--  action 2 / ✔️
+-  action 1 / s'entrainer
+-  action 2 /
 -  ...
 
 Résolution :

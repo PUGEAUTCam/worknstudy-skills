@@ -80,13 +80,13 @@ query: GQL.GET_ALL_DOMAINS,
 
 [https://github.com/Snoupix/UpOrDawn](projet de WCS)
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable / ✔️
 
 [https://github.com/Snoupix/UpOrDawn](projet de WCS)
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel / ✔️
 
-Description : Pas de test en front dans mon entreprise
+https://github.com/Interencheres/cpm-padawan-fullstack2/tree/main/src/test
 
 ## 🌐 J'utilise des ressources
 
@@ -96,9 +96,9 @@ https://www.youtube.com/watch?v=Jv2uxzhPFl4&ab_channel=Fireship
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage / ✔️
 
-Description:
+Description: Pas de point de blocage, juste d'autres logiciels a travailler a l'avenir eventuellement
 
 Plan d'action : (à valider par le formateur)
 
